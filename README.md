@@ -1,5 +1,5 @@
 # Нюхалов Денис, портфолио
 
-### [Web языки](https://denisnyux.github.io/Web-porfolio/)
+### [Web языки](https://denisnyux.github.io/Web-portfolio/)
 ### Программирование
 ### Вычислительная математика
